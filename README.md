@@ -63,3 +63,6 @@ LESSON PLAN:
 - Android profiler
 - Location Services
 - Algorithm problems
+
+### click the link below for detailed comprehensive notes by me on each of the subjects mentioned above
+[link](https://docs.google.com/document/d/e/2PACX-1vRtGRLDPazKEfB3Qi18K5wCCrd_n7ldtRIl-Wds6xZ_-L0HLWR1IEzsDfkCOPUgcmrDAectcQZi8WOW/pub)
